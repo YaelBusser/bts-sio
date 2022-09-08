@@ -13,7 +13,7 @@ Comme précisé dans le cours et dans nos échanges, la structure « MVC » est 
 - [Aide mémoire Programmation Orientée Objet](/cheatsheets/poo/)
 
 ::: tip C'est important
-Le point d'introduction est important. Savoir justifier d'une solution est tout aussi important que la solution en elle-même. Si vous décider décider d'utiliser ma structure dans d'autres développements vous devez le faire avec conviction et pas juste « parceque ».
+Le point d'introduction est important. Savoir justifier d'une solution est tout aussi important que la solution en elle-même. Si vous décider d'utiliser ma structure dans d'autres développements vous devez le faire avec conviction et pas juste « parceque ».
 
 Ceci étant dit, nous pouvons continuer 🚀 !
 :::
@@ -54,7 +54,7 @@ Nous devrions créer au minimum _3 modèles_ :
 - BonDeCommande
 - Produit
 
-Avec à chaque fois des méthodes spécifiques exemple, nous pourrions avoir
+Avec à chaque fois des méthodes spécifiques, par exemple nous pourrions avoir :
 
 | Modèle        | Méthodes                                                    |
 | :------------ | :---------------------------------------------------------- |
